@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574543539 source:c:\users\hico\documents\chaines\chaine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonction.h"
+
+1574524414 c:\users\hico\documents\chaines\chaine\fonction.h
+
+1574637628 source:c:\users\hico\documents\chaines\chaine\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonction.h"
+

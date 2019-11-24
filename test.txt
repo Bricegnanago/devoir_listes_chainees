@@ -1,0 +1,4 @@
+Banane=La banane et la banane plantain sont des sources de vitamine
+Goyave=le fruit tropical du goyavier, arbre de la famille
+Batterie=La batterie est un instrument de musique pour les batteurs
+Ordinateur=Un ordinateur est un appareil pouvant effectuer des calculs
